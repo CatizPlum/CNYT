@@ -31,7 +31,7 @@ pip install numpy
 1. Clonar repositorio:
 git clone https://github.com/CatizPlum/CNYT.git
 
-2.Después de clonar:
+2. Después de clonar:
 cd CNYT/Tarea: Teoría cuántica básica, Observables y Medidas
 
 3. Abrir Jupyter:
