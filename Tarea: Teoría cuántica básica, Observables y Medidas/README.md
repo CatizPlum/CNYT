@@ -31,13 +31,16 @@ pip install numpy
 1. Clonar repositorio:
 git clone https://github.com/CatizPlum/CNYT.git
 
-2. Abrir Jupyter:
+2.Después de clonar:
+cd CNYT/Tarea: Teoría cuántica básica, Observables y Medidas
+
+3. Abrir Jupyter:
 jupyter notebook
 
-3. Abrir el archivo:
+4. Abrir el archivo:
 Tarea_Teoría_cuántica_básica,_Observables_y_Medidas.ipynb
 
-4. Ejecutar las celdas en orden.
+5. Ejecutar las celdas en orden.
 
 
 ## Navegación
