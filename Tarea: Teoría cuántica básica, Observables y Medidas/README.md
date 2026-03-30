@@ -29,7 +29,7 @@ pip install numpy
 ## Ejecución
 
 1. Clonar repositorio:
-git clone 
+git clone https://github.com/CatizPlum/CNYT.git
 
 2. Abrir Jupyter:
 jupyter notebook
